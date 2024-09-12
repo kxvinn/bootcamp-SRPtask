@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Bootcamp.SOLID.SRPtask\Bootcamp.SOLID.SRPtask\bin\Debug\net8.0\Bootcamp.SOLID.SRPtask.exe
+C:\Users\Administrator\source\repos\Bootcamp.SOLID.SRPtask\Bootcamp.SOLID.SRPtask\bin\Debug\net8.0\Bootcamp.SOLID.SRPtask.deps.json
+C:\Users\Administrator\source\repos\Bootcamp.SOLID.SRPtask\Bootcamp.SOLID.SRPtask\bin\Debug\net8.0\Bootcamp.SOLID.SRPtask.runtimeconfig.json
+C:\Users\Administrator\source\repos\Bootcamp.SOLID.SRPtask\Bootcamp.SOLID.SRPtask\bin\Debug\net8.0\Bootcamp.SOLID.SRPtask.dll
+C:\Users\Administrator\source\repos\Bootcamp.SOLID.SRPtask\Bootcamp.SOLID.SRPtask\bin\Debug\net8.0\Bootcamp.SOLID.SRPtask.pdb
+C:\Users\Administrator\source\repos\Bootcamp.SOLID.SRPtask\Bootcamp.SOLID.SRPtask\obj\Debug\net8.0\Bootcamp.SOLID.SRPtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Bootcamp.SOLID.SRPtask\Bootcamp.SOLID.SRPtask\obj\Debug\net8.0\Bootcamp.SOLID.SRPtask.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Bootcamp.SOLID.SRPtask\Bootcamp.SOLID.SRPtask\obj\Debug\net8.0\Bootcamp.SOLID.SRPtask.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Bootcamp.SOLID.SRPtask\Bootcamp.SOLID.SRPtask\obj\Debug\net8.0\Bootcamp.SOLID.SRPtask.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Bootcamp.SOLID.SRPtask\Bootcamp.SOLID.SRPtask\obj\Debug\net8.0\Bootcamp.SOLID.SRPtask.dll
+C:\Users\Administrator\source\repos\Bootcamp.SOLID.SRPtask\Bootcamp.SOLID.SRPtask\obj\Debug\net8.0\refint\Bootcamp.SOLID.SRPtask.dll
+C:\Users\Administrator\source\repos\Bootcamp.SOLID.SRPtask\Bootcamp.SOLID.SRPtask\obj\Debug\net8.0\Bootcamp.SOLID.SRPtask.pdb
+C:\Users\Administrator\source\repos\Bootcamp.SOLID.SRPtask\Bootcamp.SOLID.SRPtask\obj\Debug\net8.0\Bootcamp.SOLID.SRPtask.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Bootcamp.SOLID.SRPtask\Bootcamp.SOLID.SRPtask\obj\Debug\net8.0\ref\Bootcamp.SOLID.SRPtask.dll
